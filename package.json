@@ -1,0 +1,22 @@
+{
+	"name": "simple-api-response",
+	"version": "1.0.0",
+	"description": "A simple API response wrapper that will help return a standardised response across an API platform",
+	"main": "response.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kKar1503/simple-api-response.git"
+	},
+	"author": "Yam Kar Lok",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kKar1503/simple-api-response/issues"
+	},
+	"homepage": "https://github.com/kKar1503/simple-api-response#readme",
+	"dependencies": {
+		"lodash": "^4.17.21"
+	}
+}
